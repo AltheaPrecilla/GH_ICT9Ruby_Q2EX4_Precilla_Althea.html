@@ -1,0 +1,9 @@
+
+		h2 { color: pink;
+		}
+		div { padding:10px; margin: 5px; 
+		}
+		img.left { margin: 10px; float:left ; 
+		}
+		img.right { margin:10px; float:right; 
+		}
